@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/valenqiu/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/valenqiu/catkin_ws/src/aruco_ros/aruco/include/**",
+        "/home/valenqiu/catkin_ws/src/aruco_ros/aruco_ros/include/**",
+        "/home/valenqiu/catkin_ws/src/find_object_2d/include/**",
+        "/home/valenqiu/catkin_ws/src/geometric_shapes/include/**",
+        "/home/valenqiu/catkin_ws/src/leap_client/include/**",
+        "/home/valenqiu/catkin_ws/src/srdfdom/include/**",
+        "/home/valenqiu/catkin_ws/src/ur5_controller/include/**",
+        "/home/valenqiu/catkin_ws/src/universal_robot/ur_kinematics/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
